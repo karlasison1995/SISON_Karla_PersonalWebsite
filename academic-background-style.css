@@ -1,0 +1,19 @@
+body {
+	background-color: #dfdfdf;
+	font-family: arial;
+	color: black;
+}
+h1{
+	font-size: 80pt;
+	color: black;
+}
+p {
+	background-color: #f0f3f3;}
+
+table{
+	background-color: #f0f3f3;
+	border-color: red;
+}
+th{
+	font-style: italic;
+}
