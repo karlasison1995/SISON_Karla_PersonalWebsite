@@ -1,0 +1,13 @@
+body {
+font-family: arial;
+background-color: #dfdfdf
+}
+h2 {
+color: White;
+background-color: #cdf5f7 }
+p {
+color: black;}
+form{
+	vertical-align: bottom;
+	text-align: right;
+}
