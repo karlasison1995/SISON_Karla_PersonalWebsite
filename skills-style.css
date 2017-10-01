@@ -1,7 +1,11 @@
 body {
-	background-color: #dfdfdf;
 	font-family: arial;
 	color: #184b04;
+	background-image: url("stonehenge.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top-left;
+	font-size: 14pt;
 }
 h1{
 	font-size: 80pt;
@@ -15,7 +19,4 @@ h3{
 }
 h4{
 	color: #041a4b;
-}
-li{
-	;
 }
