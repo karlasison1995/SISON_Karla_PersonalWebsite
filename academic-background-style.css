@@ -1,19 +1,34 @@
 body {
-	background-color: #dfdfdf;
 	font-family: arial;
 	color: black;
+	background-image: url("plateau.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;
 }
 h1{
 	font-size: 80pt;
 	color: black;
 }
 p {
-	background-color: #f0f3f3;}
+	font-size: 16pt;
+	}
 
 table{
 	background-color: #f0f3f3;
+	opacity: 0.75;
 	border-color: red;
+	font: solid;
+	font-size: 14pt;
+	font-weight: 10;
 }
+tr.even {
+background-color: #efefef;}
+tr:hover {
+background-color: white;}
 th{
+	color: blue;
+	opacity: 1;
 	font-style: italic;
+	font-size: 18pt;
 }
