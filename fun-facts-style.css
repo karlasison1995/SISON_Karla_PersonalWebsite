@@ -1,7 +1,10 @@
 body {
-	background-color: #dfdfdf;
 	font-family: arial;
 	color: black;
+	background-image: url("clouds.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;
 }
 h1{
 	font-size: 100pt;
@@ -11,11 +14,17 @@ h2 {
 color: White;
 background-color: #cdf5f7 }
 p {
-	background-color: white;}
+	font-size: 14pt;
+	color: black;}
 img.align-center{
 	display: block;
 	margin: 0px auto;
 }
 figure {
+	background-position: center;
+	color: blue;
 	text-align: center;
+}
+figcaption{
+	background-color: #c5bfbd;
 }
