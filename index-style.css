@@ -1,10 +1,12 @@
 body {
 font-family: arial;
-background-color: #dfdfdf
+background-image: url("sky.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
 h2 {
-color: White;
-background-color: #cdf5f7 }
+color: black;
+
 p {
 color: black;}
 form{
